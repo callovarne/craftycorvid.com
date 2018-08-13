@@ -1,0 +1,20 @@
+---
+label: Posts
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Title
+  config:
+    required: true
+- type: datetime
+  label: Publish
+  name: publish
+  config:
+    required: true
+- type: file
+  label: Image
+  name: image
+  config:
+    maxSize: '5'

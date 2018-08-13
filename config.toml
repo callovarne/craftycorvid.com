@@ -1,0 +1,4 @@
+baseURL = "https://craftycorvid.com/"
+languageCode = "en-us"
+title = "Crafty Corvid"
+theme = "hyde"
